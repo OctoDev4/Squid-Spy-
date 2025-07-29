@@ -1,4 +1,4 @@
-# WiFi Password Extractor and Email Sender
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e9d94c37-3267-4fc5-b013-a04f343a6f20" />
 
 This Python script extracts all saved WiFi profiles and their passwords on a Windows machine and sends the collected information via email.
 
